@@ -1,0 +1,9 @@
+{
+  "name": "DubaiOne",
+  "short_name": "DubaiOne",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#006C4C",
+  "description": "UAE PRO, visa and document assistance services"
+}
