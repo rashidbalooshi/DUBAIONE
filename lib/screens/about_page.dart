@@ -7,9 +7,9 @@ class AboutPage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(title: const Text('About DubaiOne')),
-      body: const ListView(
-        padding: EdgeInsets.all(20),
-        children: [
+      body: ListView(
+        padding: const EdgeInsets.all(20),
+        children: const [
           Icon(Icons.apartment_rounded, size: 72),
           SizedBox(height: 18),
           Text('DubaiOne', textAlign: TextAlign.center, style: TextStyle(fontSize: 28, fontWeight: FontWeight.bold)),
